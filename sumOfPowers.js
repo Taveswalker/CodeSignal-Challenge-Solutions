@@ -1,4 +1,5 @@
 //I wasn't happy with this answer at all but I've decided to submit and then review the shorter solutions.
+//Update: They used recurssion instead of loops 👌
 
 sumOfPowers=(n,d) => {
     let t = 0
